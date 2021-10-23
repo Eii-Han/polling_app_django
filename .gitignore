@@ -142,3 +142,8 @@ cython_debug/
 
 # PyCharm
 .idea
+
+# secret
+mysite/secret.txt
+
+
